@@ -1,5 +1,5 @@
 # django-models3-cw_b
-
+#### You successfully made your model added all data and your routes are correct. Nice Job. 5/5 Score: 5/5
 ### Exercise 1
 Create a Book model with name, pageNumber, genre, and publishDate attributes. Create 2 entries using 2 different methods (admin site and class construtor using an endpoint).
 
